@@ -1,0 +1,54 @@
+body {
+  font-family: "Bad Script", cursive;
+  font-weight: bold;
+}
+
+#port {
+  background: url("../img/port.jpg") no-repeat;
+  background-size: cover;
+}
+
+#port h3, h4 {
+  text-align: center;
+  color: white;
+}
+
+#port h3 {
+  margin-bottom: 6%;
+  padding-top: 5%;
+}
+
+#port input {
+  margin-left: 35.9%;
+  margin-right: auto;
+  margin-bottom: 5%;
+  margin-top: 2%;
+}
+
+#port .btn1 {
+  color: white;
+  background-color: blue;
+  width: 10%;
+  box-shadow: 1px 1px black;
+}
+
+#port .btn2 {
+  background-color: orange;
+  border-radius: 0px;
+  border: 1px solid black;
+  margin-left: 43.5%;
+  margin-right: auto;
+  margin-top: 2%;
+  margin-bottom: 9%;
+  padding-top: 0.9%;
+  padding-bottom: 0.9%;
+  padding-left: 1.5%;
+  padding-right: 1.5%;
+  box-shadow: 2px 2px black;
+}
+
+#search iframe {
+  width: 100%;
+}
+
+/*# sourceMappingURL=custom.css.map */

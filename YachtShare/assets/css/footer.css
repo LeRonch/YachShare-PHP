@@ -1,0 +1,43 @@
+
+footer {
+    background-color: blue;
+  }
+  
+  footer #footext {
+    width: 70%;
+    margin-left: 18%;
+    padding-bottom: 1%;
+  }
+  
+  footer #bubulle {
+    width: 40%;
+    margin-left: 31%;
+    padding-bottom: 3%;
+    padding-top: 2%;
+  }
+  
+  .dot {
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+  }
+  
+  .dot:focus {
+    outline: none;
+  }
+  
+  footer h2 {
+    color: white;
+    font-size: medium;
+    padding-bottom: 3%;
+  }
+  
+  footer li {
+    font-size: small;
+    color: white;
+    line-height: 22px;
+  }
